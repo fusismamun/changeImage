@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(0, 255, 255, 0.253);
+    background-image: url(images/bg.jpg);
+
+    
+}
+h1{
+    position: relative;
+}
+hr {
+    width:40%;
+    position: absolute;
+    left: 30%;
+    color: white;
+}
